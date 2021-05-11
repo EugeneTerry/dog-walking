@@ -1,9 +1,9 @@
 .details {
-    display: fle;
+    display: flex;
     justify-content: space-evenly;
 }
 
-.detail--column {
+.detail {
     flex-basis: 24%;
     margin: 0 2rem;
     border: 1px dotted goldenrod;
